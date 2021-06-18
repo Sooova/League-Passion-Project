@@ -8,7 +8,7 @@ b) create a web-based interface to solve said problem
 So what's the project? What's the problem? And for those of you who clearly have better things to do in their spare time, what is League?
 
 ### Let's work backwords shall we?
-League of Legends, shortened to League by many, is an online MOBA game played on PC or Mac. Whilst insanley fun, it does however cause a wide variety of emotional responses; where ones' first logical response may either shower their teammates in praise, or shower in the pitch black darkness contemplating how every life decision lead to the loss of 20 lp. 
+League of Legends, shortened to League by many, is an online MOBA game played on PC or Mac. Whilst insanley fun, it does however cause a wide variety of emotional responses; where ones' first logical response may either be showering their teammates in praise, or showering in pitch black darkness contemplating how every life decision lead to the loss of 20 lp.
 
 Whats the problem, and what's the project? I'd like to create a web-based application, using both the Spotify API as well as the League of Legends API, where the user experience is as follows:
 
