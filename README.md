@@ -18,7 +18,7 @@ Whats the problem, and what's the project? I'd like to create a web-based applic
 * If the user suffered any negative emotions, display positive affirmations to the user, and prevent any songs played during this play session, to be played during any subsequent session. 
 
 ### Why prevent music from a session where negative emotions were showed?
-The idea behind this project is that once the User experiences negative emotions during a session, these negative emotions may become associated with their immediate surroundings, which in this case, could potentially be the songs played during the session. By removing these songs, the aim is to start off the next session with no previous negative bias or to bring up any negative bias during a session. 
+The idea behind this project is that once the user experiences negative emotions during a session, these negative emotions may become associated with their immediate surroundings, which in this case, could potentially be the songs played during the session. By removing these songs, the aim is to start off the next session with no previous negative bias or to bring up any negative bias during a session. 
 
 ### Additional Functionalities 
 
