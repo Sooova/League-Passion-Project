@@ -31,3 +31,4 @@ The idea behind this project is that once the user experiences negative emotions
 ### Photo Inspiration for website design
 ###### Photo snipped from Proto.io
 ![image](https://user-images.githubusercontent.com/83949034/122518468-91fc6680-d054-11eb-96a3-4994efeadc00.png)
+Info subject to change
